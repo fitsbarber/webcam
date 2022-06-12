@@ -1,0 +1,7 @@
+{
+  "name": "barberfits-technology",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
